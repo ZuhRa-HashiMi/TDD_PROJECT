@@ -27,9 +27,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [School Library] <a name="about-project"></a>
+# 📖 [TDD Project] <a name="about-project"></a>
 
-This repo is a school library tool that allows you to record what books are in the library and who borrows them, the project focused on practicing the main four concepts in oop using ruby.
+This repo is a TDD project that solve the factorial and fizzbuzz game with thier test.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -79,7 +79,7 @@ In order to run this project you need to have basic knowledge of
 
 Clone this repository to your desired folder:
 
-`https://github.com/ZuhRa-HashiMi/School_library`
+`https://github.com/ZuhRa-HashiMi/TDD_PROJECT`
 
 ### Install
 
@@ -115,11 +115,6 @@ No deployment
 - GitHub: [ZuhRa-HashiMi](https://github.com/ZuhRa-HashiMi)
 - Twitter: [@twitterhandle](https://twitter.com/zuhrahashimi4)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/zuhra-hashimi/)
-
-👤 **Girma Tarekegn**
-
-- GitHub: [girma336](https://github.com/girma336)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/girma-tarekegn/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
