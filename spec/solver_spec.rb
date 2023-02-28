@@ -13,6 +13,10 @@ RSpec.describe Solver do
       it 'returns the factorial of the given number' do
         expect(solver.factorial(1)).to eq 1
       end
+
+      it 'returns the factorial of the given number' do
+        expect(solver.factorial(0)).to eq 1
+      end
     end
 
     context 'Check the factorial of -12 is Argument Error' do
